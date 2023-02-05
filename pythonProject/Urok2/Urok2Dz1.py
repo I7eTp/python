@@ -17,3 +17,5 @@ while tries:
     tries -= 1
 
 print('рел - {}, решка - {}'.format( mon_coin.count(1), mon_coin.count(2)))
+
+
